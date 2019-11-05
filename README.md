@@ -1,7 +1,7 @@
 # code-server-rust
 Code Server with rust pre-installed.
 
-#How to use
+# How to use
 1. Create .env file.
 Example:
 ```
